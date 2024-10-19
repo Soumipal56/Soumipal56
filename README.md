@@ -16,3 +16,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soumipal56&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
