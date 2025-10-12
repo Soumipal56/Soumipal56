@@ -38,4 +38,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soumipal56&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## ✨ Fun Extras:
+🎧 *“Code. Debug. Repeat. With a coffee in hand ☕.”*  
+📫 Reach me at: **soumiisc2020@gmail.com**
+
+### 🚀 *Let’s build something amazing together!* 💻
+
 
