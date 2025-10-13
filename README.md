@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00B09B,96C93D&width=600&height=80&lines=Hi+there+!+Soumi+here+%F0%9F%91%8B;Happy+Coding+!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-
 # 💫 About Me:
 🎓 I’m a **CSE student** at *NSHM Institute of Engineering and Technology*<br>🌱 Currently exploring **MERN Stack** and **modern web technologies**<br>👯 I’m looking to collaborate on MERN<br>💬 Ask me about MERN<br> ⚡ Fun fact: I love turning ideas 💡 into reality with code!
 
