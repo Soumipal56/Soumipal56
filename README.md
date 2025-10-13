@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=FFFFFF&width=700&height=90&background=0f172a&lines=%F0%9F%91%8B+Hi+there+!+Soumi+here;+%F0%9F%9A%80+Happy+Coding+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00B09B,96C93D&width=600&height=80&lines=Hi+there+!+Soumi+here+%F0%9F%91%8B;Happy+Coding+!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
