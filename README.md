@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=25F737&width=435&lines=Hi+there+!+Soumi+here+%F0%9F%91%8B;Happy+Coding+!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=FFFFFF&width=700&height=90&background=0f172a&lines=%F0%9F%91%8B+Hi+there+!+Soumi+here;+%F0%9F%9A%80+Happy+Coding+!)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
 🎓 I’m a **CSE student** at *NSHM Institute of Engineering and Technology*<br>🌱 Currently exploring **MERN Stack** and **modern web technologies**<br>👯 I’m looking to collaborate on MERN<br>💬 Ask me about MERN<br> ⚡ Fun fact: I love turning ideas 💡 into reality with code!
@@ -10,6 +11,7 @@
 
 
 [![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
+
 
 # 💻 Tech Stack:
 ### 🧠 Languages & Frameworks
@@ -35,12 +37,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soumipal56&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumipal56&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soumipal56&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## ✨ Fun Extras:
 🎧 *“Code. Debug. Repeat. With a coffee in hand ☕.”*  
 📫 Reach me at: **soumiisc2020@gmail.com**
+
 
 ### 🚀 *Let’s build something amazing together!* 💻
 
