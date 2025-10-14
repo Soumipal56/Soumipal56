@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumi-pal-17164a256)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/soumi_pal_)
 
-
-[![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
 [![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
 
 # 💻 Tech Stack:
