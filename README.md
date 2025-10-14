@@ -10,7 +10,7 @@
 
 
 [![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
-
+[![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
 
 # 💻 Tech Stack:
 ### 🧠 Languages & Frameworks
