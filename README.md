@@ -17,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Web Technologies
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
