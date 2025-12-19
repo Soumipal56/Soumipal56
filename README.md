@@ -3,11 +3,14 @@
 # 💫 About Me:
 🎓 I’m a **CSE student** at *NSHM Institute of Engineering and Technology*<br>🌱 Currently exploring **MERN Stack** and **modern web technologies**<br>👯 I’m looking to collaborate on MERN<br>💬 Ask me about MERN<br> ⚡ Fun fact: I love turning ideas 💡 into reality with code!
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumi-pal-17164a256)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/soumi_pal_)
 
+
 [![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
+
 
 # 💻 Tech Stack:
 ### 🧠 Languages & Frameworks
@@ -28,6 +31,8 @@
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=soumipal56&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
