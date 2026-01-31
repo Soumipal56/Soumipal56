@@ -46,7 +46,8 @@
 
 
 ## ✨ Fun Extras:
-🎧 *“Code. Debug. Repeat. With a coffee in hand ☕.”*  
+🎧 *Code. Debug. Learn. Repeat.*  
+☕ Powered by coffee & curiosity  
 📫 Reach me at: **soumiisc2020@gmail.com**
 
 
