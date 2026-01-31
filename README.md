@@ -57,7 +57,6 @@
 ### 🚀 *Let’s build something amazing together!* 💻
 
 
-![Snake animation](https://github.com/soumipal56/soumipal56/blob/output/github-contribution-grid-snake.svg)
 
 
 
