@@ -3,8 +3,6 @@
 # 💫 About Me:
 🎓 I’m a **CSE student** at *NSHM Institute of Engineering and Technology*<br>🌱 Currently exploring **MERN Stack** and **modern web technologies**<br>👯 I’m looking to collaborate on MERN<br>💬 Ask me about MERN<br> ⚡ Fun fact: I love turning ideas 💡 into reality with code!
 
-![](https://komarev.com/ghpvc/?username=soumipal56&color=blueviolet&style=flat-square)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumi-pal-17164a256)
