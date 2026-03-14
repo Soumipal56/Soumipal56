@@ -36,6 +36,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 
+### 🤖 Gen AI & AI Tools
+![LangChain](https://img.shields.io/badge/LangChain-121212.svg?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=soumipal56&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
