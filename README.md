@@ -37,6 +37,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 Gen AI & AI Tools
 ![LangChain](https://img.shields.io/badge/LangChain-121212.svg?style=for-the-badge)
