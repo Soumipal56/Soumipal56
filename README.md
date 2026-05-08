@@ -55,6 +55,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-FF6F00.svg?style=for-the-badge)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000.svg?style=for-the-badge&logo=mistral&logoColor=white)
 
 
 # 📊 GitHub Stats:
