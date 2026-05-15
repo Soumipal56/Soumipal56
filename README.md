@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00B09B,96C93D&width=600&height=80&lines=Welcome+to+my+profile!+%F0%9F%8C%9F;I+am+Soumi+Pal+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🏆 Open Source Contributions
-🌟 GSSoC 2025 & 2026 Contributor
+🌟 GSSoC 2025 & 2026 Contributor<br>
 🎃 Hacktoberfest 2024 & 2025 Contributor
 
 
