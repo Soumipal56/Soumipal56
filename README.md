@@ -15,7 +15,7 @@
 
 
 [![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
-<img width="1080" height="1080" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/8b9d0ad5-f71f-40f9-8ed7-ef9db56b35b8" width="150" alt="GSSoC 2026 Master Bounty"/>
+(<img width="1080" height="1080" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/8b9d0ad5-f71f-40f9-8ed7-ef9db56b35b8" width="150" alt="GSSoC 2026 Master Bounty"/>)
 
 
 # 💻 Tech Stack
