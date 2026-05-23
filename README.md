@@ -15,6 +15,8 @@
 
 
 [![An image of @soumipal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumipal56)](https://holopin.io/@soumipal56)
+<img width="1032" height="451" alt="image" src="https://github.com/user-attachments/assets/6da32e5a-dc57-4146-8b53-43a0f24f5cb9" />
+
 
 
 # 💻 Tech Stack
