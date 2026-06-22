@@ -38,6 +38,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 
+## 🎬 Animation & 3D
+![GSAP](https://img.shields.io/badge/GSAP-88CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![Lenis](https://img.shields.io/badge/Lenis-1a1a1a.svg?style=for-the-badge&logoColor=white)
+
 ## 🗄️ Databases & Auth
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
